@@ -1,0 +1,23 @@
+# Copy this to .env.local to enable real email sending
+
+# Email Service Configuration (Resend - Free Tier)
+# 1. Go to https://resend.com
+# 2. Sign up for free account
+# 3. Get your API key from dashboard
+# 4. Replace 'your_api_key_here' with actual key
+RESEND_API_KEY=your_api_key_here
+FROM_EMAIL=noreply@realestate.com
+
+# Admin Configuration
+ADMIN_EMAIL=admin@realestate.com
+NEXT_PUBLIC_ADMIN_PASSWORD=admin123
+
+# Environment
+NODE_ENV=development
+
+# Instructions:
+# 1. Copy this content to a file named '.env.local' in the realestateapp folder
+# 2. Replace 'your_api_key_here' with your actual Resend API key
+# 3. Restart the development server: npm run dev
+# 4. Test email sending from admin dashboard
+

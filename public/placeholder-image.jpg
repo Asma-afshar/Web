@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#E5E7EB"/>
+  <rect x="300" y="200" width="200" height="200" rx="8" fill="#D1D5DB"/>
+  <path d="M350 280 L400 230 L450 280 L400 330 Z" fill="#9CA3AF"/>
+  <rect x="370" y="300" width="60" height="40" rx="4" fill="#9CA3AF"/>
+  <circle cx="390" cy="250" r="8" fill="#9CA3AF"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6B7280">Property Image</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#9CA3AF">Not Available</text>
+</svg>
